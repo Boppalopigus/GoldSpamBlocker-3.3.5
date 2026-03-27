@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: GoldSpamBlocker
+## Notes: Silently filters gold-seller spam from Trade, General/LFG, and Whisper. Supports EN, PL, RU, ZH.
+## Author: Mike
+## Version: 2.0
+## SavedVariables: GSB_Config, GSB_Patterns
+
+Localization.lua
+GoldSpamBlocker.lua
